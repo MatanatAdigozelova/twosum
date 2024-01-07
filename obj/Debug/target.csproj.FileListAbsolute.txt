@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\target\bin\Debug\target.exe.config
+C:\Users\user\Desktop\target\bin\Debug\target.exe
+C:\Users\user\Desktop\target\bin\Debug\target.pdb
+C:\Users\user\Desktop\target\obj\Debug\target.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\target\obj\Debug\target.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\target\obj\Debug\target.exe
+C:\Users\user\Desktop\target\obj\Debug\target.pdb
